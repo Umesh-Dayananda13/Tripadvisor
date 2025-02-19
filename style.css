@@ -130,7 +130,7 @@
 .section4 img{
   width: 250px;
   height: 200px;
-  border: 2px #84E9BD solid;
+  border: 2px black solid;
   margin: 10px;
 }
 .section4__s2{
@@ -292,6 +292,10 @@ h1{
   }
   .section2__s3 p{
     display: none;
+  }
+  img:hover{
+    transform: scalex(1.2);
+    transition-duration: 1s;
   }
   
 }
