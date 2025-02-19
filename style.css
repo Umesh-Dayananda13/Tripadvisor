@@ -285,6 +285,8 @@ h1{
     flex-direction: column;
     height: 100%;
     margin: 10px;
+    position: relative;
+    right: 5px;
   }
   .section7__s5 {
     position: relative;
@@ -331,5 +333,19 @@ h1{
   margin: 0px;
   
     
+}
+.section5{
+  margin: 5px;
+  position: relative;
+  left: 5px;
+}
+.section4{
+  margin: 5px;
+  position: relative;
+  left: 5px;
+
+}
+.section5 h1{
+  color: black;
 }
 }
