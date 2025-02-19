@@ -123,19 +123,23 @@
   margin: 20px;
   position: relative;
   left: 20px;
+  
 }
 .section4__s1{
   margin: 10px;
+  
 }
 .section4 img{
   width: 250px;
   height: 200px;
   border: 2px black solid;
   margin: 10px;
+  
 }
 .section4__s2{
   display: flex;
   flex-wrap: wrap;
+  
   
   
 }
@@ -280,6 +284,7 @@ h1{
     display:flex;
     flex-direction: column;
     height: 100%;
+    margin: 10px;
   }
   .section7__s5 {
     position: relative;
@@ -300,5 +305,26 @@ h1{
   .section6__s1{
     width: fit-content;
   }
+  .navbar {
+    position: sticky;
+    top: 0px;
+    background-color: grey;
+    z-index: 3;
+    height: 100px;
+    
+  }
+  .navbar__s2 p{
+    display: none;
+  }
+  .section4__s2 {
+    background-color: rgb(224, 221, 221);
+
   
+}
+.section6 {
+  margin:10px;
+ 
+  
+
+}
 }
