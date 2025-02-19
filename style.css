@@ -297,5 +297,8 @@ h1{
     transform: scalex(1.2);
     transition-duration: 1s;
   }
+  .section6__s1{
+    width: fit-content;
+  }
   
 }
