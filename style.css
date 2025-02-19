@@ -290,5 +290,8 @@ h1{
     position: relative;
     right: 100px;
   }
+  .section2__s3 p{
+    display: none;
+  }
   
 }
