@@ -280,7 +280,7 @@ h1{
 @media screen and (max-width:600px) {
   .navbar{
     display: flex;
-    flex-direction: column;
+    
   }
   .section3 video {
     width: 100%;
@@ -325,7 +325,9 @@ h1{
     top: 0px;
     background-color: grey;
     z-index: 3;
-    height: 100px;
+    height: 50px;
+  
+
     
   }
   .navbar__s2 p{
