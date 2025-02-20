@@ -160,7 +160,7 @@ body {
   
   
 }
- img:hover{
+ .hover:hover{
   transform: scaley(1.2);
   transition-duration: 1s;
   margin-top: 10px;
@@ -277,7 +277,7 @@ h1{
   margin: 8px;
   position: relative;
   top:88%;
-  left: 70%;
+  left: 0%;
   width: 20px;
   cursor: pointer;
 
@@ -288,6 +288,7 @@ h1{
 .section7 p:hover {
   border-bottom: 1px black solid;
 }
+
 /*media queries*/
 @media screen and (max-width:600px) {
   .navbar{
@@ -322,7 +323,7 @@ h1{
   .section2__s3 p{
     display: none;
   }
-   img:hover{
+   .hover:hover{
     transition-duration: 1s;
     margin-left: 50%;
     margin-top: 10%;
