@@ -308,9 +308,12 @@ h1{
   .section2__s3 p{
     display: none;
   }
-  img:hover{
-    transform:scalex(1.1);
+   img:hover{
     transition-duration: 1s;
+    margin-left: 50%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
   }
   .section6__s1{
     width: fit-content;
