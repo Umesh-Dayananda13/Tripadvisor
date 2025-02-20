@@ -151,6 +151,8 @@
  img:hover{
   transform: scaley(1.2);
   transition-duration: 1s;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 h1{
   color:green;
@@ -160,7 +162,7 @@ h1{
 .section5 img{
   width: 250px;
   height: 200px;
-  border: 2px white solid;
+  border: 2px black solid;
   margin: 10px;
   
 
