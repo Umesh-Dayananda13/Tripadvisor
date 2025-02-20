@@ -1,3 +1,7 @@
+
+
+
+
 *{
   margin: 0px;
   padding: 0px;
@@ -12,6 +16,7 @@
   margin: 10px;
   padding: 10px;
   border-bottom: 1px black solid;
+  
 }
 .navbar__s2  {
   display: flex;
@@ -157,6 +162,7 @@ h1{
   height: 200px;
   border: 2px white solid;
   margin: 10px;
+  
 
 }
 
@@ -164,6 +170,8 @@ h1{
   margin: 20px;
   position: relative;
   left: 20px;
+  
+  
   
 }
 .section5__s1{
@@ -301,7 +309,7 @@ h1{
     display: none;
   }
   img:hover{
-    transform: scalex(1.2);
+    transform:scalex(1.1);
     transition-duration: 1s;
   }
   .section6__s1{
@@ -338,6 +346,7 @@ h1{
   margin: 5px;
   position: relative;
   left: 5px;
+  background-color: #F2F2F2;
 }
 .section4{
   margin: 5px;
@@ -348,4 +357,12 @@ h1{
 .section5 h1{
   color: black;
 }
+.section5__s2 img, .section4__s2 img{
+  border: 2px black solid;
+
 }
+}
+
+  
+
+  
