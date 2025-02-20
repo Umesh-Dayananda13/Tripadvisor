@@ -312,12 +312,12 @@ h1{
   }
   .section7__s5 {
     position: relative;
-    right: 35%;
+    text-align: center;
 
   }
   .section7__s4 {
     position: relative;
-    right: 100px;
+    right: 80px;
   }
   .section2__s3 p{
     display: none;
