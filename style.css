@@ -189,9 +189,10 @@
 
 }
 
+
 .hover:hover {
   transform: scaley(1.2);
-  transition-duration: 1s;
+  transition-duration: 2s;
   margin-top: 10px;
   margin-bottom: 20px;
 }
@@ -380,7 +381,9 @@ h1 {
     margin-left: 50%;
     margin-top: 10%;
     margin-bottom: 10%;
-    width: 100%;
+    
+    
+    
     
 
 
