@@ -333,8 +333,8 @@ h1 {
 
 /*media queries*/
 @media screen and (max-width:600px) {
- 
- 
+
+
   .navbar {
     display: flex;
 
@@ -389,7 +389,7 @@ h1 {
   .navbar {
     position: sticky;
     top: 0px;
-    background-color:white;
+    background-color: white;
     z-index: 3;
     height: 50px;
 
@@ -448,17 +448,19 @@ h1 {
     position: relative;
     right: 130px;
     margin-top: 5px;
-    
-    
-    
+
 
 
 
 
   }
+  body {
+    font-size: 7px;
+  }
   
-
 }
+
+
 
 /*changes*/
 
