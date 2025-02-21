@@ -345,7 +345,7 @@ h1 {
   .navbar {
     display: flex;
     position: sticky;
-top:0%;
+top:0px;
 zindex:3;
 
   }
