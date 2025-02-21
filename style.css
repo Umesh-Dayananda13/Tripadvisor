@@ -425,6 +425,7 @@ h1 {
     position: relative;
     left: 5px;
     background-color: #F2F2F2;
+    
   }
 
   .section4 {
@@ -441,6 +442,7 @@ h1 {
   .section5__s2 img,
   .section4__s2 img {
     border: 2px black solid;
+    border-radius: 35px;
 
   }
 
