@@ -379,8 +379,11 @@ h1 {
     margin-left: 50%;
     margin-top: 10%;
     margin-bottom: 10%;
+    
+
 
   }
+  
 
   .section6__s1 {
     width: fit-content;
@@ -444,6 +447,14 @@ h1 {
     border: 2px black solid;
     border-radius: 35px;
 
+  }
+  .section5__s2  h1,
+  .section4__s2  h1{
+    color: rgb(74, 74, 74);
+    position:relative;
+    left: 120%;
+    bottom: 50%;
+    font-size: 15px;
   }
 
   .sliding-container {
