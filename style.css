@@ -342,16 +342,9 @@ h1 {
 @media screen and (max-width:600px) {
 
 
-  .navbar {
-    display: flex;
-    position: sticky;
 
-  }
 
-  .section3 video {
-    width: 100%;
-
-  }
+  
 
   .section6 h1 {
     display: none;
@@ -403,6 +396,8 @@ h1 {
     background-color: white;
     z-index: 3;
     height: 50px;
+    display: flex;
+    
 
 
 
@@ -419,30 +414,33 @@ h1 {
   }
 
   .section6 {
-    margin: 10px;
+    margin: 3px;
+  
+  
+    
 
 
 
   }
 
-  .navbar {
-    margin: 0px;
 
-
-  }
 
   .section5 {
-    margin: 5px;
+    margin: 4px;
     position: relative;
-    left: 5px;
+    left: 1px;
     background-color: #F2F2F2;
+    width: 470px;
+
+  
     
   }
 
   .section4 {
-    margin: 5px;
+    margin: 4px;
     position: relative;
-    left: 5px;
+    left: 1px;
+    width: 470px;
 
   }
 
@@ -477,6 +475,8 @@ h1 {
   }
   body {
     font-size: 7px;
+    
+    
   }
   
 }
