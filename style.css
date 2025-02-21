@@ -1,3 +1,4 @@
+
 #Aakash {
   margin-right: 10px;
 
@@ -17,6 +18,7 @@
 
 .navbar img {
   width: 200px;
+  
 }
 
 .navbar {
@@ -26,7 +28,12 @@
   margin: 10px;
   padding: 10px;
   border-bottom: 1px black solid;
+  position: sticky;
+  top: 0px;
+  z-index: 3;
+  background-color:white;
 
+  
 }
 
 .navbar__s2 {
@@ -337,6 +344,7 @@ h1 {
 
   .navbar {
     display: flex;
+    position: sticky;
 
   }
 
@@ -485,6 +493,8 @@ h1 {
   border: 2px solid #ccc;
   border-radius: 10px;
   margin-left: 160px;
+ 
+  
 }
 
 .slide {
@@ -550,3 +560,4 @@ h1 {
   height: 500px;
 
 }
+/* key frames*/
