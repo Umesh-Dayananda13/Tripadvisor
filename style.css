@@ -395,7 +395,7 @@ h1 {
 
   .navbar {
     position: sticky;
-    top: 0px;
+    top: 0%;
     background-color: white;
     z-index: 3;
     height: 50px;
