@@ -409,6 +409,10 @@ h1 {
   .navbar__s2 p {
     display: none;
   }
+  .navbar__s3{
+    position: relative;
+    right: 30px;
+  }
 
   .section4__s2 {
     background-color: rgb(224, 221, 221);
