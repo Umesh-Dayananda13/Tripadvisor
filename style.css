@@ -401,7 +401,7 @@ h1 {
     height: 50px;
     display: flex;
     width: 98%;
-    border-bottom: none;
+  overflow-x: hidden;
     
     
 
